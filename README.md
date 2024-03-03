@@ -9,4 +9,16 @@
 * nvm install --lts
 
 ### Angular
-* a
+* npm install -g @angular/cli
+
+### create new project
+* ng new <project-name>
+* cd <project-name>
+* optional with Material: ng add @angular/material
+* code .
+
+### or clone from github
+* cd ~
+* git clone <remote-url.git>
+* cd <remote>
+* code .
